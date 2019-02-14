@@ -1,0 +1,7 @@
+id=pirasalbeomniswitch
+name=OmniSwitch
+version=1.0.0
+versionCode=100
+author=pirasalbe
+description=Systemlessly add OmniSwitch to system
+minMagisk=17000
