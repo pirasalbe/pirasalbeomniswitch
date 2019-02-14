@@ -1,7 +1,33 @@
-# Magisk Module Template
+# Magisk Font Google
 
-**Update `README.md` if you want to submit your module to the online repo!** This `README.md` will be shown in a Webview dialog when a user taps your module in Magisk Manager, so make sure to place some information / changelog / notes here.
+## Testing devices ##
+* [Tesing Device] OnePlus 5 Android Pie
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+## Contact ##
+* <a href="https://github.com/Magisk-Modules-Repo/Magisk_Font_Google/issues">Commit an Issue</a>
+* <a href="https://forum.xda-developers.com/android/apps-games/7-0-nougat-omniswitch-flashable-zip-t3456566">XDA Thread of the app</a>
 
-For more information about modules and repos, please check the [official documentation](https://topjohnwu.github.io/Magisk/)
+## Changelog ##
+#### 2.1R ####
+* Font more regular
+* Fix config
+
+#### 2.1C ####
+* Font more condensed
+* Fix config
+
+#### 2.0R ####
+* Font more regular
+* Updated magisk module template 1500
+
+#### 2.0C ####
+* Font more condensed
+* Updated magisk module template 1500
+
+#### 1.0 ####
+* First release
+
+## Thanks ##
+* <a href="https://github.com/topjohnwu">topjohnwu</a>
+* <a href="https://forum.xda-developers.com/member.php?u=5964313">wrongway213</a> <a href="https://forum.xda-developers.com/android/apps-games/7-0-nougat-omniswitch-flashable-zip-t3456566">(created original flashable zip)</a>
+* **All of them that helped with tests and issues**
